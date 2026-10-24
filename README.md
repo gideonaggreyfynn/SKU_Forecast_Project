@@ -25,5 +25,5 @@ The model successfully identifies product lifecycle stages, preventing costly in
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/gideonaggreyfynn/SKU_Forecast_Project
    cd SKU_Forecast_Project
